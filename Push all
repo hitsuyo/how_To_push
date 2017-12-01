@@ -1,4 +1,5 @@
 
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
 	git config --global user.name "YOUR NAME"
         git config --global user.email "YOUR EMAIL ADDRESS"
