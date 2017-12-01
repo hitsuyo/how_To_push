@@ -3,5 +3,7 @@
 	git config --global user.name "YOUR NAME"
         git config --global user.email "YOUR EMAIL ADDRESS"
 
+	git add -A
+	git commit -m "commit something"	
 	git remote add origin https://github.com/hitsuyo/how_To_push.git
 	git push -u origin master
